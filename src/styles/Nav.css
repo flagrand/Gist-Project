@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    background: lightcoral;
+    font-size: 25px;
+    justify-content: space-evenly;
+    
+}
+ul#horizontal-list li {
+		display: inline;
+}
+.txt{
+    color:white;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 0 40px 0 40px;
+    cursor: pointer;
+}
